@@ -1,5 +1,3 @@
-# html-css-js-project-boilerplate
-
 # University Template page
 
 #### By Ashit Kumar Sinha
